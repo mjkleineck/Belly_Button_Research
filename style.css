@@ -1,0 +1,19 @@
+body {
+
+    color: #000000;
+}
+
+h1 {
+    color: hsl(120, 10%, 87%);
+  }
+
+  p {
+    background-color: rgb(60, 97, 151);
+    color: white;
+  }
+  
+.jumbotron {
+    background-image: url("https://cms-tc.pbskids.org/global/petri-dish-jello-mezz.jpg");
+    background-size: 100% 100%;
+    text-align: center;
+}
